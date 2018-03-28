@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/release/xml/provider_paths.xml",
+        "source": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/default/res/xml/provider_paths.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/xml/preferences.xml"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_path.xml",
+        "source": "/Users/Reethree/.android/build-cache/d527fa8d3489966660d42ee57063ee722a8fcd18/output/res/anim/ucrop_loader_circle_path.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/ucrop_loader_circle_scale.xml",
+        "source": "/Users/Reethree/.android/build-cache/d527fa8d3489966660d42ee57063ee722a8fcd18/output/res/anim/ucrop_loader_circle_scale.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Reethree/.android/build-cache/223d1df9a34634fb4fb8c364615f2036c006da90/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Reethree/Documents/HybridApps/ReactNative/SalesHack/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/Reethree/.android/build-cache/33a7fb819602f3b7221a828a61c8ac45df151f75/output/res/anim/slide_up.xml"
+    }
+]
